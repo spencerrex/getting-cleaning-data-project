@@ -3,6 +3,7 @@
 This codebook describes the variables found in average_of_all_measures_with_mean_or_std.txt. This file is the output of a series of calculations on the Samsung UCI_HAR Dataset.
 
 The activity column (column 1) is one of the six activities which the experiment subjects participated in when gathering this data, and contain the string value of the activity:
+
 1. WALKING
 2. WALKING_UPSTAIRS
 3. WALKING_DOWNSTAIRS
